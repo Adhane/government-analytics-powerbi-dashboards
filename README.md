@@ -90,15 +90,7 @@ The goal was to take raw data and turn it into **simple and useful insights** fo
 
 ![SBM Dashboard](screenshots/sbm_dashboard.png)
 ![JJM Dashboard](screenshots/jjm.png)
-
----
-
-## 📂 Project Structure
-
-* `datasets/` → Sample data
-* `screenshots/` → Dashboard images
-* `pbix-files/` → Power BI files
-* `docs/` → Extra documents
+![School Enrolment-category wise](screenshots/jjm.png)
 
 ---
 
