@@ -88,10 +88,10 @@ The goal was to take raw data and turn it into **simple and useful insights** fo
 
 
 ![SBM Dashboard](Screenshots/SBM MR3C.png)
-![JJM Dashboard](screenshots/JJM.png)
-![School Enrolment-category wise](screenshots/Enrolment.png)
-![Krushi Yojana](screenshots/Krushi Yojana.png)
-![PM Poshan](screenshots/PM Poshan.png)
+![JJM Dashboard](Screenshots/JJM.png)
+![School Enrolment-category wise](Screenshots/Enrolment.png)
+![Krushi Yojana](Screenshots/Krushi Yojana.png)
+![PM Poshan](Screenshots/PM Poshan.png)
 
 ---
 
