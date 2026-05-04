@@ -87,7 +87,7 @@ The goal was to take raw data and turn it into **simple and useful insights** fo
 ## 📷 Dashboard Screenshots
 
 
-![SBM Dashboard](Screenshots/SBM MR3C.png)
+![SBM Dashboard](Screenshots/SBM MR3C .png)
 ![JJM Dashboard](Screenshots/JJM.png)
 ![School Enrolment-category wise](Screenshots/Enrolment.png)
 ![Krushi Yojana](Screenshots/Krushi Yojana.png)
